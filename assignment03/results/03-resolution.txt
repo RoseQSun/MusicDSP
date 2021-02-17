@@ -1,0 +1,5 @@
+Question 3.4
+The frequency resolution is 2 Hz because it is computed as the sample rate over the number of samples. (44100/ (44100*0.5) = 2 Hz)
+
+Question 3.5
+When the length is doubled, the frequency resolution gets halved and becomes 1 Hz, and we get finer resolution.
